@@ -21,4 +21,4 @@ If you'd like to add an item in this awesome list, pull requests are welcome.
 
 * The **[Software Heritage](https://www.softwareheritage.org/)** project collects and preserves software. The project motivation is that "software embodies our technical and scientific knowledge and humanity cannot afford the risk of losing it." (project lead by Roberto Di Cosmo).
 
-
+* **[dokieli](https://dokie.li/)** is a client-side editor for decentralised article publishing, annotations and social interactions. It can be used to submit scholarly articles in some (Web science) conferences. It implements W3C specifications: Web Annotation, Linked Data Notifications, Activity Streams 2.0. Employs WebID+TLS, Web access control and compliant with Linked Data Platform. Articles and annotations can be assigned with a Creative Commons license. Supports semantic inline citations. Its [source code](https://github.com/linkeddata/dokieli) uses the Apache License, Version 2.0. Maintained by [Sarven Capadisli](http://csarven.ca/#i) ([Github](https://github.com/csarven)) et al.
