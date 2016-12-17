@@ -1,4 +1,4 @@
-# Pointers about open science for software science
+# Awesome open science for software and computational science
 
 [Edit and improve this page!](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)
 
