@@ -24,7 +24,7 @@ Events ([edit to add one](https://github.com/INRIA/awesome-open-science-software
 Artifact review and evaluations ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
 
 * [Artifact evaluation](http://www.artifact-eval.org/) (maintained by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/)) discusses availability of experimental data and reproducibility of experiments. 
-* [Artifact Evaluation at ISSTA'16](https://issta2016.cispa.saarland/artifact-evaluation/)).
+* [Artifact Evaluation at ISSTA'16](https://issta2016.cispa.saarland/artifact-evaluation/).
 
 Papers ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
 
