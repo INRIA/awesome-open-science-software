@@ -8,7 +8,14 @@
 * software as main study object (software engineering, programming language, systems software, ...). 
 * software support for open science (communication, data sharing, etc) 
 
-Software as Experimental Tool 
+Community
+---------
+
+* [Research Data Alliance](https://www.rd-alliance.org/) (RDA) is a community-driven organization supported by the European Commission, the United States Government's National Science Foundation and National Institute of Standards and Technology, and the Australian Government’s Department of Innovation with the goal of building the social and technical infrastructure to enable open sharing of data.
+* [The Software Sustainability Institute](https://www.software.ac.uk/)'s mission is to cultivate better, more sustainable, research software to enable world-class research.
+
+
+Software as Experimental Tool
 ------------------------------
 Reference documents ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
 
