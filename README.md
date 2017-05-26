@@ -40,9 +40,6 @@ Papers ([edit to add one](https://github.com/INRIA/awesome-open-science-software
 
 * [Enhancing reproducibility for computational methods (Science, Dec 2016, Vol. 354)](http://science.sciencemag.org/content/354/6317/1240)
 
-Others ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
-
-* [UK's Software Sustainability Institute](http://www.software.ac.uk/)
 
 Software as Study Subject
 -------------------------
