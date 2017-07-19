@@ -48,6 +48,7 @@ Software data curation and preservation ([edit to add one](https://github.com/IN
 
 * The [Software Heritage](https://www.softwareheritage.org/) project collects and preserves software. The project motivation is that "software embodies our technical and scientific knowledge and humanity cannot afford the risk of losing it." (project lead by Roberto Di Cosmo).
 * [Software Engineering Community - Zenodo](https://zenodo.org/collection/user-empirical-software-engineering) The long-term data archival platform [Zenodo](https://zenodo.org) (supported by CERN) is perfectly appropriate for software engineering datasets and benchmarks (up to 4GB). There is a group "Empirical Software Engineering and Mining Software Repositories" for SE/PL data (curated by [Martin Monperrus](http://www.monperrus.net/martin/)).
+* [Journal of Open Source Software - JOSS](http://joss.theoj.org) The Journal of Open Source Software (JOSS) is a developer friendly journal for research software packages. JOSS papers enable citation of research software packages with a DOI for software that is licensed with as OSI approved open source license, has installation instructions, usage documentation, automated testing, and community contribution guidelines.
 
 Others:
 
