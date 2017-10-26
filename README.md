@@ -1,12 +1,12 @@
 # Awesome open science for software and computational science
 
-[Edit and improve this page!](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)
-
-[awesome-open-science-software](https://github.com/INRIA/awesome-open-science-software) lists resources about open science and software:
+`awesome-open-science-software lists resources about open science and software:
 
 * software as main experimental tool (aka computational methods)
 * software as main study object (software engineering, programming language, systems software, ...). 
 * software support for open science (communication, data sharing, etc) 
+
+RSS feed: <https://github.com/INRIA/awesome-open-science-software/commits/master.atom>
 
 Community
 ---------
@@ -63,6 +63,6 @@ Software Support for Open Science
  
 *  [dokieli](https://dokie.li/) is a client-side editor for decentralised article publishing, annotations and social interactions for science. Its [source code](https://github.com/linkeddata/dokieli) is open source under the the Apache License, Version 2.0. Maintained by [Sarven Capadisli](http://csarven.ca/#i) ([Github](https://github.com/csarven)) et al.
 * [Open Science Framework (OSF.io)](https://osf.io) provides project management support for researchers across the entire research lifecycle. Developed by the [Center for Open Science](https://cos.io).
-
+* [Anonymous Github](https://github.com/tdurieux/anonymous_github/) is a system to anonymize open-science Github repositories before referring to them in a double-blind paper submission.
 
 
