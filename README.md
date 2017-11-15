@@ -1,6 +1,6 @@
 # Awesome open science for software and computational science
 
-`awesome-open-science-software lists resources about open science and software:
+awesome-open-science-software lists resources about open science and software:
 
 * software as main experimental tool (aka computational methods)
 * software as main study object (software engineering, programming language, systems software, ...). 
@@ -35,6 +35,7 @@ Artifact review and evaluations ([edit to add one](https://github.com/INRIA/awes
 * [Artifact evaluation (artifact-eval.org)](http://www.artifact-eval.org/) (maintained by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/)) discusses availability of experimental data and reproducibility of experiments. 
 * [Artifact Evaluation at ISSTA'16](https://issta2016.cispa.saarland/artifact-evaluation/).
 * [The Reproducible Science Project (reproduciblescience.org)](https://reproduciblescience.org/) is a joint-project by New York University, the University of California, Berkeley and the University of Washington to promote open-science.
+* The [ReScience journal](https://rescience.github.io/) is a peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible.
 
 Papers ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
 
