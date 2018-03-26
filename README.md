@@ -42,6 +42,9 @@ Papers ([edit to add one](https://github.com/INRIA/awesome-open-science-software
 * [Enhancing reproducibility for computational methods (Science, Dec 2016, Vol. 354)](http://science.sciencemag.org/content/354/6317/1240)
 * [Journal of Open Source Software - JOSS](http://joss.theoj.org) The Journal of Open Source Software (JOSS) is a journal for research software packages. JOSS papers enable citation of research software packages with a DOI.
 
+Tools ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
+
+* [Depsy](http://depsy.org/) helps build the software-intensive science of the future by promoting credit for software as a fundamental building block of science. 
 
 Software as Study Subject
 -------------------------
