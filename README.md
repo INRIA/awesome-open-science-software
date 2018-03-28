@@ -68,5 +68,6 @@ Software Support for Open Science
 *  [dokieli](https://dokie.li/) is a client-side editor for decentralised article publishing, annotations and social interactions for science. Its [source code](https://github.com/linkeddata/dokieli) is open source under the the Apache License, Version 2.0. Maintained by [Sarven Capadisli](http://csarven.ca/#i) ([Github](https://github.com/csarven)) et al.
 * [Open Science Framework (OSF.io)](https://osf.io) provides project management support for researchers across the entire research lifecycle. Developed by the [Center for Open Science](https://cos.io).
 * [Anonymous Github](https://github.com/tdurieux/anonymous_github/) is a system to anonymize open-science Github repositories before referring to them in a double-blind paper submission.
+* [recipy](https://github.com/recipy/recipy) records provenance for Python programs 
 
 
