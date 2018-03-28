@@ -15,7 +15,7 @@ Community
 * [Mozilla Science](https://science.mozilla.org) is a community of researchers, developers, and librarians making research open and accessible.
 * [Research Data Alliance](https://www.rd-alliance.org/) (RDA) is a community-driven organization supported by the European Commission, the United States Government's National Science Foundation and National Institute of Standards and Technology, and the Australian Government’s Department of Innovation with the goal of building the social and technical infrastructure to enable open sharing of data.
 * [The Software Sustainability Institute](https://www.software.ac.uk/)'s mission is to cultivate better, more sustainable, research software to enable world-class research.
-
+* [Openscience.org](http://openscience.org) supports the development of open scientific software, in particular for cheminformatics. 
 
 Software as Experimental Tool
 ------------------------------
