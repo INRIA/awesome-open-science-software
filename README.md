@@ -52,7 +52,11 @@ Software as Study Subject
 Software data curation and preservation ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
 
 * The [Software Heritage](https://www.softwareheritage.org/) project collects and preserves software. The project motivation is that "software embodies our technical and scientific knowledge and humanity cannot afford the risk of losing it." (project lead by Roberto Di Cosmo).
-* [Software Engineering Community - Zenodo](https://zenodo.org/collection/user-empirical-software-engineering) The long-term data archival platform [Zenodo](https://zenodo.org) (supported by CERN) is perfectly appropriate for software engineering datasets and benchmarks (up to 4GB). There is a group "Empirical Software Engineering and Mining Software Repositories" for SE/PL data (curated by [Martin Monperrus](http://www.monperrus.net/martin/)).
+* [Awesome-msr](https://github.com/dspinellis/awesome-msr): curated repository of software engineering data sets
+* [tera-PROMISE](http://openscience.us/repo/) - Research dataset repository specializing in software engineering research datasets.* [Zenodo](http://zenodo.org/) - operated by CERN, contains several collections about software data:
+  * [Software Engineering Artifacts Can Really Assist Future Tasks ](http://zenodo.org/communities/seacraft)
+  * [Empirical Software Engineering](https://zenodo.org/communities/empirical-software-engineering/)
+  * [Mining Software Repositories](https://zenodo.org/communities/msr/)
 
 Others:
 
