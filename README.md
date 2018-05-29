@@ -46,14 +46,15 @@ Tools ([edit to add one](https://github.com/INRIA/awesome-open-science-software/
 
 * [Depsy](http://depsy.org/) helps build the software-intensive science of the future by promoting credit for software as a fundamental building block of science. 
 
-Software as Study Subject
+Software as Research Object
 -------------------------
 
 Software data curation and preservation ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
 
 * The [Software Heritage](https://www.softwareheritage.org/) project collects and preserves software. The project motivation is that "software embodies our technical and scientific knowledge and humanity cannot afford the risk of losing it." (project lead by Roberto Di Cosmo).
 * [Awesome-msr](https://github.com/dspinellis/awesome-msr): curated repository of software engineering data sets
-* [tera-PROMISE](http://openscience.us/repo/) - Research dataset repository specializing in software engineering research datasets.* [Zenodo](http://zenodo.org/) - operated by CERN, contains several collections about software data:
+* [tera-PROMISE](http://openscience.us/repo/) - Research dataset repository specializing in software engineering research datasets.
+* [Zenodo](http://zenodo.org/) - operated by CERN, contains several collections about software data:
   * [Software Engineering Artifacts Can Really Assist Future Tasks ](http://zenodo.org/communities/seacraft)
   * [Empirical Software Engineering](https://zenodo.org/communities/empirical-software-engineering/)
   * [Mining Software Repositories](https://zenodo.org/communities/msr/)
@@ -69,6 +70,7 @@ Software Support for Open Science
  
  ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md))
  
+ * [Code as a Research Object](http://mozillascience.github.io/code-research-object/) is a prototype integration between Github and figshare.
 *  [dokieli](https://dokie.li/) is a client-side editor for decentralised article publishing, annotations and social interactions for science. Its [source code](https://github.com/linkeddata/dokieli) is open source under the the Apache License, Version 2.0. Maintained by [Sarven Capadisli](http://csarven.ca/#i) ([Github](https://github.com/csarven)) et al.
 * [Open Science Framework (OSF.io)](https://osf.io) provides project management support for researchers across the entire research lifecycle. Developed by the [Center for Open Science](https://cos.io).
 * [Anonymous Github](https://github.com/tdurieux/anonymous_github/) is a system to anonymize open-science Github repositories before referring to them in a double-blind paper submission.
