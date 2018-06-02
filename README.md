@@ -16,6 +16,7 @@ Community
 * [Research Data Alliance](https://www.rd-alliance.org/) (RDA) is a community-driven organization supported by the European Commission, the United States Government's National Science Foundation and National Institute of Standards and Technology, and the Australian Government’s Department of Innovation with the goal of building the social and technical infrastructure to enable open sharing of data.
 * [The Software Sustainability Institute](https://www.software.ac.uk/)'s mission is to cultivate better, more sustainable, research software to enable world-class research.
 * [Openscience.org](http://openscience.org) supports the development of open scientific software, in particular for cheminformatics. 
+* [NumFOCUS](https://www.numfocus.org/) Open-code, better science. Non-profit organization that promotes sustainable high-level programming languages, open code development, and reproducible scientific research.
 
 Software as Experimental Tool
 ------------------------------
