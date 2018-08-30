@@ -77,5 +77,6 @@ Software Support for Open Science
 * [Open Science Framework (OSF.io)](https://osf.io) provides project management support for researchers across the entire research lifecycle. Developed by the [Center for Open Science](https://cos.io).
 * [Anonymous Github](https://github.com/tdurieux/anonymous_github/) is a system to anonymize open-science Github repositories before referring to them in a double-blind paper submission.
 * [recipy](https://github.com/recipy/recipy) records provenance for Python programs 
+* [codeocean](https://codeocean.com/) Code Ocean is a cloud-based computational reproducibility platform to run scientific code
 
 
