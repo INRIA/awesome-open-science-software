@@ -71,6 +71,7 @@ Software Support for Open Science
  
  ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md))
  
+* [IEEE DataPort](https://ieee-dataport.org/) is an open repository of datasets hosted by IEEE
 * [Dataverse](https://github.com/IQSS/dataverse) A data repository framework to share and publish research data
 * [Code as a Research Object](http://mozillascience.github.io/code-research-object/) is a prototype integration between Github and figshare.
 * [dokieli](https://dokie.li/) is a client-side editor for decentralised article publishing, annotations and social interactions for science. Its [source code](https://github.com/linkeddata/dokieli) is open source under the the Apache License, Version 2.0. Maintained by [Sarven Capadisli](http://csarven.ca/#i) ([Github](https://github.com/csarven)) et al.
