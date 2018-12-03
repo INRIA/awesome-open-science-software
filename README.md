@@ -72,6 +72,12 @@ Software Support for Open Science
  
  ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md))
  
+ Course:
+ 
+ * The Swedish PhD course ["Tools for reproducible research"](https://nbis-reproducible-research.readthedocs.io/en/latest/) gives very good pointers
+ 
+ Software application and services: 
+ 
 * [IEEE DataPort](https://ieee-dataport.org/) is an open repository of datasets hosted by IEEE
 * [Dataverse](https://github.com/IQSS/dataverse) A data repository framework to share and publish research data
 * [Code as a Research Object](http://mozillascience.github.io/code-research-object/) is a prototype integration between Github and figshare.
