@@ -42,6 +42,7 @@ Papers ([edit to add one](https://github.com/INRIA/awesome-open-science-software
 
 * [Enhancing reproducibility for computational methods (Science, Dec 2016, Vol. 354)](http://science.sciencemag.org/content/354/6317/1240)
 * [Journal of Open Source Software - JOSS](http://joss.theoj.org) The Journal of Open Source Software (JOSS) is a journal for research software packages. JOSS papers enable citation of research software packages with a DOI.
+* [Streamlining the Inclusion of of Computer Experiments In a Research Paper](https://ieeexplore.ieee.org/document/8625929), IEEE Computer, vol 55. no. 11, November 2018.
 
 Tools ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
 
@@ -49,7 +50,7 @@ Tools ([edit to add one](https://github.com/INRIA/awesome-open-science-software/
 * [CodeMeta](https://codemeta.github.io/) The CodeMeta project proposes a way to have structured metadata for research software.  
 
 Software as Research Object
--------------------------
+---------------------------
 
 Software data curation and preservation ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
 
@@ -80,6 +81,7 @@ Software Support for Open Science
 * [Anonymous Github](https://github.com/tdurieux/anonymous_github/) is a system to anonymize open-science Github repositories before referring to them in a double-blind paper submission.
 * [recipy](https://github.com/recipy/recipy) records provenance for Python programs 
 * [codeocean](https://codeocean.com/) Code Ocean is a cloud-based computational reproducibility platform to run scientific code
+* [LabPal](https://liflab.github.io/labpal) is a Java library that allows you to design, control, process and package experiments that are run on a computer, and to streamline the integration of results within a research paper.
 
 Courses
 -------
