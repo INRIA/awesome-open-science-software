@@ -47,7 +47,8 @@ Papers ([edit to add one](https://github.com/INRIA/awesome-open-science-software
 Tools ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
 
 * [Depsy](http://depsy.org/) helps build the software-intensive science of the future by promoting credit for software as a fundamental building block of science. 
-* [CodeMeta](https://codemeta.github.io/) The CodeMeta project proposes a way to have structured metadata for research software.  
+* [CodeMeta](https://codemeta.github.io/) The CodeMeta project proposes a way to have structured metadata for research software.
+* [code-ini](https://github.com/gramian/code-ini) Code meta data via .ini files
 
 Software as Research Object
 ---------------------------
