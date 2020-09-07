@@ -55,16 +55,17 @@ Software as Research Object
 
 Software data curation and preservation ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
 
-* The [Software Heritage](https://www.softwareheritage.org/) project collects and preserves software. The project motivation is that "software embodies our technical and scientific knowledge and humanity cannot afford the risk of losing it." (project lead by Roberto Di Cosmo).
-* [Awesome-msr](https://github.com/dspinellis/awesome-msr): curated repository of software engineering data sets
+* [Software Heritage](https://www.softwareheritage.org/) project collects and preserves software. The project motivation is that "software embodies our technical and scientific knowledge and humanity cannot afford the risk of losing it." (project lead by Roberto Di Cosmo).
 * [tera-PROMISE](http://openscience.us/repo/) - Research dataset repository specializing in software engineering research datasets.
 * [Zenodo](http://zenodo.org/) - operated by CERN, contains several collections about software data:
   * [Software Engineering Artifacts Can Really Assist Future Tasks ](http://zenodo.org/communities/seacraft)
   * [Empirical Software Engineering](https://zenodo.org/communities/empirical-software-engineering/)
   * [Mining Software Repositories](https://zenodo.org/communities/msr/)
+* [Data Archiving and Networked Services - DANS](https://easy.dans.knaw.nl/) (The Netherlands)
 
 Others:
 
+* [Awesome-msr](https://github.com/dspinellis/awesome-msr): curated repository of software engineering data sets
 * The [Evaluate Collaboratory](http://evaluate.inf.usi.ch/) (managed by [Matthias Hauswirth](http://www.inf.usi.ch/faculty/hauswirth/)) is a hub for everybody interested in understanding and improving the state of practice in experimental evaluation in software science.
 * The [Github group "opensciences"](https://github.com/opensciences) (initiated by Tim Menzies) contains the source of http://openscience.us/, which is an "open science for software engineering portal".
 * [SoftwareEngineeringToolDemos](https://github.com/SoftwareEngineeringToolDemos) This Github group gathers software prototypes associated with software-engineering publications (maintained by [Emerson Murphy-Hill](http://people.engr.ncsu.edu/ermurph3/) and his students). 
