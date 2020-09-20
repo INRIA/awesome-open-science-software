@@ -42,7 +42,7 @@ Papers ([edit to add one](https://github.com/INRIA/awesome-open-science-software
 
 * [Enhancing reproducibility for computational methods (Science, Dec 2016, Vol. 354)](http://science.sciencemag.org/content/354/6317/1240)
 * [Journal of Open Source Software - JOSS](http://joss.theoj.org) The Journal of Open Source Software (JOSS) is a journal for research software packages. JOSS papers enable citation of research software packages with a DOI.
-* [Streamlining the Inclusion of of Computer Experiments In a Research Paper](https://ieeexplore.ieee.org/document/8625929), IEEE Computer, vol 55. no. 11, November 2018.
+* [Streamlining the Inclusion of Computer Experiments In a Research Paper](https://ieeexplore.ieee.org/document/8625929), IEEE Computer, vol 55. no. 11, November 2018.
 
 Tools ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
 
@@ -89,4 +89,4 @@ Courses
 -------
 
 * Swedish PhD course ["Tools for reproducible research"](https://nbis-reproducible-research.readthedocs.io/en/latest/). It gives very good pointers.
-* [Coursera MOOC on Reproducible Research](https://www.coursera.org/learn/reproducible-research]
+* [Coursera MOOC on Reproducible Research](https://www.coursera.org/learn/reproducible-research)
