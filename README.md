@@ -82,6 +82,7 @@ Software Support for Open Science
 * [Open Science Framework (OSF.io)](https://osf.io) provides project management support for researchers across the entire research lifecycle. Developed by the [Center for Open Science](https://cos.io).
 * [Anonymous Github](https://github.com/tdurieux/anonymous_github/) is a system to anonymize open-science Github repositories before referring to them in a double-blind paper submission.
 * [recipy](https://github.com/recipy/recipy) records provenance for Python programs 
+* [shournal](https://github.com/tycho-kirchner/shournal) records provenance on the shell. It provides the exact command which created a given file
 * [codeocean](https://codeocean.com/) Code Ocean is a cloud-based computational reproducibility platform to run scientific code
 * [LabPal](https://liflab.github.io/labpal) is a Java library that allows you to design, control, process and package experiments that are run on a computer, and to streamline the integration of results within a research paper.
 
